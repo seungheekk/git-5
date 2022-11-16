@@ -16,6 +16,7 @@
 
 ### [5.6 ~ 5.7 요약 ](https://github.com/betrayedpeople/git-5/blob/main/5.6~5.7%EC%9E%A5.md)
 
+<br>
   
 ## 깃 교과서 6장
   
