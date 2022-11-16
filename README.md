@@ -31,3 +31,10 @@
 ## :pushpin: 깃 교과서 8장
   
 ### [8.1 ~ 8.4 요약 ](https://github.com/betrayedpeople/git/blob/main/8%EC%9E%A5%20%EC%A0%95%EB%A6%AC/8.1%20~%208.4.md)
+
+<br>
+  
+## :pushpin: 깃 교과서 9장
+  
+### [9.1 ~ 9.3 요약 ](https://github.com/betrayedpeople/git/blob/main/9%EC%9E%A5%EC%A0%95%EB%A6%AC/9.1%20~%209.3.md)
+
