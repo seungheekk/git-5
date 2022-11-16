@@ -25,3 +25,9 @@
 ### [6.5 ~ 6.8 요약 ](https://github.com/betrayedpeople/git/blob/main/6.5%20~%206.8.md)
 
 ### [6.9 ~ 6.11 요약 ](https://github.com/betrayedpeople/git/blob/main/6.9%20~%206.11.md)
+
+<br>
+  
+## :pushpin: 깃 교과서 8장
+  
+### [8.1 ~ 8.4 요약 ](https://github.com/betrayedpeople/git/blob/main/8%EC%9E%A5%20%EC%A0%95%EB%A6%AC/8.1%20~%208.4.md)
