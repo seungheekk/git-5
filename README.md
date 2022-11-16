@@ -48,8 +48,10 @@
 
 ### [오픈소스 소프트웨어의 현황](https://github.com/betrayedpeople/OSS_Assignment/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/OSS%20%ED%98%84%ED%99%A9.md)
 
-### [대표적인 오픈소스 소프트웨어](https://github.com/betrayedpeople/OSS_Assignment/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8%20OSS.md)
-
 ### [오픈소스 소프트웨어의 저작권](https://github.com/betrayedpeople/OSS_Assignment/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/OSS%20%EC%A0%80%EC%9E%91%EA%B6%8C.md)
+  
+### [대표적인 오픈소스 소프트웨어]
+(https://github.com/betrayedpeople/OSS_Assignment/blob/main/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B0%9C%EC%9A%94%EC%99%80%20%EC%9D%B4%ED%95%B4/%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8%20OSS.md)
+
 
 
