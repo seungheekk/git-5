@@ -8,7 +8,7 @@
 
 <br/>
 
-## 깃 교과서 5장
+## :pushpin: 깃 교과서 5장
   
 ### [5.1 ~ 5.3 요약 ](https://github.com/betrayedpeople/git-5/blob/main/5.1%20~%205.3.md)
 
@@ -18,7 +18,7 @@
 
 <br>
   
-## 깃 교과서 6장
+## :pushpin: 깃 교과서 6장
   
 ### [6.1 ~ 6.4 요약 ](https://github.com/betrayedpeople/git/blob/main/6.1%20~%206.4.md)
 
